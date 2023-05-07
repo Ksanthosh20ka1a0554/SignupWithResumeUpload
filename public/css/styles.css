@@ -1,0 +1,23 @@
+.box {
+    max-width: 600px;
+    margin: 50px auto;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+  }
+  .box-list {
+    max-width: 300px;
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+  }
+  .box-admin {
+    max-width: 600px;
+    
+    background: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 15px -5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+  }
